@@ -2,7 +2,7 @@
 layout: post
 title:  "elevated kraft mac and cheese"
 date:   2014-08-10 21:23:29
-categories: blog food
+categories: food
 cover_photo_url: /images/mac.jpg
 ---
 
