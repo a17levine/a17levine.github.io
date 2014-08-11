@@ -91,8 +91,27 @@ a:hover, a:active {
 	background: #ff0;
 }
 
+.footer {
+	margin-top: 20px;
+	margin-bottom: 50px;
+	margin-left:auto;
+	margin-right:auto;
+	width:945px
+}
+
 .container_9 {;
 	border-bottom: 1px solid #efefef;
+	padding-bottom: 25px;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+.container {
+	padding-left: 20px;
+	margin-left:auto;
+	margin-right:auto;
+	width:945px
+	padding-right: 20px;
 }
 
 #text_cascade .character {
@@ -138,10 +157,19 @@ footer, .section {
 	margin-bottom: 50px;
 }
 
+.index-page img {
+	max-width: 260px;
+}
+
 .stalactite-loaded {
 	/*display: none;
 	-moz-box-shadow: 0 0 3px 0 rgba(0,0,0,0.5);
 	-webkit-box-shadow: 0 0 3px 0 rgba(0,0,0,0.5);
 	box-shadow: 0 0 3px 0 rgba(0,0,0,0.5);
 	position: relative;*/
+}
+
+.post-image {
+	margin-bottom: 30px;
+	max-width: 600px;
 }

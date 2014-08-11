@@ -1,10 +1,11 @@
 ---
 layout: default
-title: Whatup
+title: alex levine // blog
 ---
 
-<div id="static-example" class="content container_9">
-	<h2>Hi I'm Alex. I am a web developer and lots of other fun stuff. You can find me in the club. I have gangsta shoes. Here are some things on my mind.</h2>
+<div id="static-example" class="content container_9 index-page">
+	<img src="/images/alex.png">
+	<h2 style="width:250px" >I'm Alex. I am a web developer and avid cook. My current mission is to empower people through code education at <a href="http://www.makersquare.com">MakerSquare</a></h2>
 	{% for post in site.posts %}
 		<a href="{{ post.url }}"><img src="{{ post.cover_photo_url }}" /><h4>{{ post.title }}</h4></a>
   {% endfor %}	
