@@ -19,27 +19,6 @@
         <script type="text/javascript">
           $(function() {
 
-            $('#css-example-a').click(function(e) {
-              e.preventDefault();
-              $(this).parent().addClass('active');
-              $('#css-example').stalactite({
-                fluid: false,
-                cssPrep: false
-              });
-              updateLoader(function() {
-                $('#css-example').fadeIn();
-              });
-            });
-
-            $('#fluid-example-a').click(function(e) {
-              e.preventDefault();
-              $(this).parent().addClass('active');
-              $('#fluid-example').stalactite();
-              updateLoader(function() {
-                $('#fluid-example').fadeIn();
-              });
-            });
-
             $('#static-example').stalactite({
               fluid: false
             });
