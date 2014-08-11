@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Test1"
+date:   2014-08-10 21:23:29
+categories: jekyll
+cover_photo_url: http://s3.amazonaws.com/resized-images-new/40E473CE-9C84-4D7A-A1A5-31B2D8A2A35C
+---
+
+#Hi Test1
