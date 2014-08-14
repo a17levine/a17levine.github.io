@@ -152,6 +152,19 @@ a:hover, a:active {
   width: 415px;
 }
 
+.main-nav {
+	float: right;
+	margin-top: 6px;
+}
+
+.main-nav ul {
+	list-style: none;
+}
+
+.main-nav li {
+	display: inline;
+}
+
 footer, .section {
 	margin-top: 50px;
 	margin-bottom: 50px;
@@ -159,6 +172,10 @@ footer, .section {
 
 .index-page img {
 	max-width: 260px;
+}
+
+.site-title {
+	display: inline-block;
 }
 
 .stalactite-loaded {
