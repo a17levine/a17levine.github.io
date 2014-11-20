@@ -189,4 +189,9 @@ footer, .section {
 .post-image {
 	margin-bottom: 30px;
 	max-width: 600px;
+	height: 300px;
+}
+
+.post-title {
+	font-size: 4em;
 }
