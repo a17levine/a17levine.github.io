@@ -3,6 +3,11 @@
 	padding: 0;
 }
 
+.post-body h1 {
+	font-size: 2.4em;
+	margin-bottom: 27px;
+}
+
 body {
 	font-family: Helvetica, Arial, sans-serif;
 	font-weight: 500;
@@ -25,7 +30,6 @@ h3.active {
 }
 
 h3 {
-
 	width: 200px;
 	margin: 5px 0;
 	padding: 5px;
@@ -87,8 +91,8 @@ a:link, a:visited {
 	color: #333;
 }
 a:hover, a:active {
-    text-decoration: none;
-	background: #ff0;
+  text-decoration: none;
+	background: rgb(233, 205, 243);
 }
 
 .footer {
@@ -187,11 +191,28 @@ footer, .section {
 }
 
 .post-image {
-	margin-bottom: 30px;
+	margin-bottom: 23px;
+	margin-left: 23px;
 	max-width: 600px;
 	height: 300px;
+	float: right;
 }
 
 .post-title {
 	font-size: 4em;
+}
+
+.post-body {
+	margin-top: 100px;
+}
+
+.post-body p {
+	font-size: 1.9em;
+	line-height: 35px;
+}
+
+.group:after {
+  content: "";
+  display: table;
+  clear: both;
 }

@@ -3,7 +3,20 @@ layout: default
 ---
 <div class="container_9">
 	<h1 class='post-title'>{{ page.title }}</h1>
-	<p class="meta">{{ page.date | date_to_string }}</p>
-	<img class='post-image' src="{{ page.cover_photo_url }}">
-	{{ content }}
+	{% if page.categories contains "portfolio" %}
+		{% comment %} don't show date if portfolio item {% endcomment %}
+  {% else %}
+		<p class="meta">{{ page.date | date_to_string }}</p>
+	{% endif %}
+
+	<div class="post-body group">
+		{{ page.categories.class.inspect }}
+		{% if page.main_offsite_link %}
+			<a href="{{ page.main_offsite_link }}"><img class='post-image' src="{{ page.cover_photo_url }}"></a>
+	  {% else %}
+	  	<img class='post-image' src="{{ page.cover_photo_url }}">
+		{% endif %}
+		{{ content }}
+	</div>
+	<div><a href="/"><- back home</a></div>
 </div>
