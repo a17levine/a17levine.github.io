@@ -216,3 +216,8 @@ footer, .section {
   display: table;
   clear: both;
 }
+
+#static-example {
+	width: inherit;
+	max-width: 945px;
+}
