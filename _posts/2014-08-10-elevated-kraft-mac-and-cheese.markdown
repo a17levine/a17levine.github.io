@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "elevated kraft mac and cheese"
+description: "From humble origins to culinary masterpiece ... kinda"
 date:   2014-08-10 21:23:29
 categories: food
 cover_photo_url: /images/mac.jpg
