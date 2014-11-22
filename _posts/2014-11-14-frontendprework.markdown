@@ -14,7 +14,7 @@ Live link: [MakerSquare Front End Prework](http://alexatmakersquare.gitbooks.io/
 
 This document and its included exercises are used to ramp up beginners into becoming ready for a 10-week web development evening class.
 
-Many of the students are brand new to web development. Originally the prework was a list of exercises without much context as to why we were learning these topics.
+Many of the students are brand new to web development. Originally the prework was a list of exercises without much context about why we were learning these topics.
 
 With this document, I explain in plain English how these technologies are related and why they are important to learn.
 
