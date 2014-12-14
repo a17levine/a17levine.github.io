@@ -4,12 +4,12 @@ title:  "brooklyntango landing page"
 date:   2014-12-08 21:23:29
 categories: portfolio
 cover_photo_url: /images/brooklyntango.png
-main_offsite_link: "http://brooklyntango.com"
+main_offsite_link: "http://neymelo.github.io/"
 ---
 
 # Project links
 
-**Live site:** [brooklyntango](http://brooklyntango.com)  
+**Live site:** [brooklyntango](http://neymelo.github.io/)  
 **Source:** [brooklyntango source on GitHub](https://github.com/neymelo/neymelo.github.io)
 
 # A captivating landing page for a tango studio
