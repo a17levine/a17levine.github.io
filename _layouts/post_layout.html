@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title>{{ page.title }}</title>
+        <meta name="viewport" content="width=device-width">
+        <meta name="author" content="Alex Levine">
+        {% if page.description %}
+          <meta name="description" content="{{ page.description }}">
+        {% endif %}
+
+        <!-- favicon -->
+
+        <link rel="icon" type="image/ico" 
+      href="/favicon.ico">
+
+        <!-- syntax highlighting CSS -->
+        <link rel="stylesheet" href="/css/syntax.css">
+
+        <!-- Custom CSS -->
+        <link href="/css/style.css" media="screen" rel="stylesheet" type="text/css" />
+        <link href="/css/gs.css" media="screen" rel="stylesheet" type="text/css" />
+
+
+        <!-- Facebook meta tags -->
+        <meta property="og:type"               content="article" />
+        <meta property="og:title"              content="{{ page.title }}" />
+        <!-- <meta property="og:description"        content="" /> -->
+        <meta property="article:author"        content="Alex Levine" />
+        <meta property="article:publisher"     content="Blog of Alex Levine" />
+        {% if page.cover_photo_url %}
+          <meta property="og:image"              content="{{ page.cover_photo_url }}" />
+        {% endif %}
+
+        <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"></script>
+        <script type="text/javascript" src="/js/jquery.stalactite.min.js"></script>
+        <script type="text/javascript">
+          $(document).ready(function(){
+            $(function() {
+
+              $('#static-example').stalactite({
+                fluid: false
+              });
+              updateLoader();
+
+              function updateLoader(callback) {
+                setTimeout(function() {
+                  $('.stalactite-loader')
+                    .css({
+                      position: 'fixed',
+                      background: '#fff',
+                      padding: '20px 20px 15px 20px',
+                      top: 0,
+                      left: 0
+                    });
+                    if (callback) {
+                      callback.call(this);
+                    }
+                }, 1);
+              }
+
+            });
+
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-53669222-1']);
+            _gaq.push(['_trackPageview']);
+
+            (function() {
+              var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+              ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+              var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+          })
+    </script>
+
+    </head>
+    <body>
+
+      <div class="container_9 section">
+        <h1 class='site-title'><a class='no-underline' href="/">{{ site.name }}</a></h1>
+
+        <nav class='main-nav'>
+          <ul>
+            <!-- <li><a href="#">portfolio</a></li> -->
+          </ul>
+        </nav>
+      </div>
+
+      {{ content }}
+
+      <div class="container footer">
+        <p><strong>drop me a line</strong></p>
+        <span>a17levine *at* gmail *dot* com</span>
+        <a href="https://github.com/a17levine/">GitHub</a>
+        <a href="http://www.twitter.com/alevee">Twitter</a>
+        <a href="http://www.linkedin.com/in/a17levine/">LinkedIn</a>
+      </div>
+
+      <!-- google analytics -->
+      <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+        ga('create', 'UA-53669222-1', 'auto');
+        ga('send', 'pageview');
+
+      </script>
+      <!-- end of google analytics -->
+    </body>
+</html>
