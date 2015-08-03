@@ -2,7 +2,7 @@ GEM
   remote: https://rubygems.org/
   specs:
     blankslate (2.1.2.4)
-    byebug (4.0.5)
+    byebug (5.0.0)
       columnize (= 0.9.0)
     celluloid (0.16.0)
       timers (~> 4.0.0)
@@ -43,7 +43,7 @@ GEM
     jekyll-watch (1.2.1)
       listen (~> 2.7)
     kramdown (1.8.0)
-    liquid (2.6.2)
+    liquid (2.6.3)
     listen (2.10.1)
       celluloid (~> 0.16.0)
       rb-fsevent (>= 0.9.3)
@@ -60,8 +60,8 @@ GEM
       coderay (~> 1.1.0)
       method_source (~> 0.8.1)
       slop (~> 3.4)
-    pry-byebug (3.1.0)
-      byebug (~> 4.0)
+    pry-byebug (3.2.0)
+      byebug (~> 5.0)
       pry (~> 0.10)
     pygments.rb (0.6.3)
       posix-spawn (~> 0.3.6)
@@ -71,7 +71,7 @@ GEM
       ffi (>= 0.5.0)
     redcarpet (3.3.2)
     safe_yaml (1.0.4)
-    sass (3.4.15)
+    sass (3.4.16)
     slop (3.6.0)
     timers (4.0.1)
       hitimes
@@ -83,4 +83,5 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  jekyll
   octopress-debugger

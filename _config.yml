@@ -1,5 +1,5 @@
-name: "alex's notes"
-description: online notebook of Alex Levine
+name: "Alex Levine"
+description: "Web Developer // Austin, TX"
 meta_description: "alex levine's notebook"
 
 markdown: redcarpet
@@ -7,10 +7,10 @@ highlighter: pygments
 logo: false
 paginate: 15
 baseurl: /
-domain_name: 'http://yourblog-domain.com'
+domain_name: 'http://www.alevee.me'
 google_analytics: 'UA-53669222-1'
 
 # Details for the RSS feed generator
 url:            'blog url'
 author:         'Alex Levine'
-author_description: 'Alex writes about tech, programming, startups, food, and travel.'
+author_description: 'Web developer living in Austin, Texas. Lead developer for vThreat. I write about tech, programming, startups, food, and travel.'
