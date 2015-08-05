@@ -697,6 +697,7 @@ margin on the iframe, cause it breaks stuff. */
 .no-cover .main-nav.overlay .subscribe-button {
     color: rgba(0,0,0,0.4);
     border-color: rgba(0,0,0,0.3);
+    margin: 0px 3px 0px 3px;
 }
 
 /* Add subtle load-in animation for content on the home page */
