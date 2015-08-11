@@ -479,10 +479,22 @@ margin on the iframe, cause it breaks stuff. */
     background: #222 no-repeat center center;
     background-size: cover;
     overflow: hidden;
+    background-position: 100% 0%;
 }
 
 .main-header .inner {
     width: 80%;
+}
+
+.main-header-content {
+  position: relative;
+  text-align: right;
+  margin-right: 70px;
+}
+
+.main-header-content.inner {
+  margin-top: 180px;
+  vertical-align: bottom;
 }
 
 .main-nav {
@@ -1455,6 +1467,8 @@ body:not(.post-template) .post-title {
    11. Media Queries - Smaller than 500px
    ========================================================================== */
 
+
+
 @media only screen and (max-width: 500px) {
 
     .main-header {
@@ -1464,6 +1478,10 @@ body:not(.post-template) .post-title {
 
     .no-cover.main-header {
         height: 30%;
+    }
+
+    .vertical {
+      vertical-align: 20%;
     }
 
     .archive-template .main-header {
