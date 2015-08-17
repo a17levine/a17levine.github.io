@@ -3,6 +3,7 @@ layout: post
 title:  "How to use 60% less water for your shower"
 date:   2015-8-4 10:18:00
 categories: 
+published: false
 ---
 
 I had a floormate in college who took a shower in about 3-4 minutes. "My dad told me that he paid for the water and I had to use as little as possible", he would explain. 
