@@ -41,7 +41,8 @@ When you have the script installed, every time you restart your computer it will
 4. Put it somewhere where it won't be messed with, let's say 'Documents'.
 5. Go to 'Users and Groups' under 'System Preferences', got to the 'Login Items' tab
 6. Click the plus button and find the `TwoWeekBuffer.app` file that you saved. This makes it so it will run on boot.
-7. I recommend dragging the 'Two Week Buffer' folder to the Finder's left pane for quick access.
+7. This step is important: go to Chrome or your default browser and change the default download location to the 'Two Week Buffer' folder.
+8. I recommend dragging the 'Two Week Buffer' folder to the Finder's left pane for quick access.
 
 That's it!
 
