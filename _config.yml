@@ -11,6 +11,6 @@ domain_name: 'http://www.alevee.me'
 google_analytics: 'UA-53669222-1'
 
 # Details for the RSS feed generator
-url:            'blog url'
+url:            'http://www.alevee.me'
 author:         'Alex Levine'
 author_description: 'Web developer living in Austin, Texas. Lead developer for vThreat. I write about life, tech, business, food, and travel.'
