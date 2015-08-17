@@ -5,6 +5,7 @@ date:   2015-8-16 10:18:00
 categories: 
 published: true
 description: "I'm proud to announce that I've solved the problem of a bloated Downloads folder and have been using it successfully for over a year."
+image: '/assets/images/two-week-buffer.png'
 ---
 
 I'm proud to announce that I've solved the problem of a bloated Downloads folder and have been using it successfully for over a year.
