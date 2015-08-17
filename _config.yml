@@ -1,6 +1,7 @@
 name: "Alex Levine"
+title: 'Blog of Alex Levine'
 description: "web developer // austin, tx"
-meta_description: "alex levine's notebook"
+meta_description: "alex levine's blog"
 
 markdown: redcarpet
 highlighter: pygments

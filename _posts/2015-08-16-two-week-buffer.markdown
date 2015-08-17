@@ -4,6 +4,7 @@ title:  "The solution to your bloated 'Downloads' folder problem [Mac only]"
 date:   2015-8-16 10:18:00
 categories: 
 published: true
+description: "I'm proud to announce that I've solved the problem of a bloated Downloads folder and have been using it successfully for over a year."
 ---
 
 I'm proud to announce that I've solved the problem of a bloated Downloads folder and have been using it successfully for over a year.
@@ -53,5 +54,15 @@ If you want to tweak anything, you can open this file in automator and change th
 Code from `TwoWeekBuffer.app`
 
 ```
-on run {input, parameters}		tell application "Finder"		set folderPath to (POSIX path of (path to home folder)) & "/Downloads/Two Week Buffer" as POSIX file		set twoWeeksAgo to (get current date) - (2 * weeks)		delete (get every file of folder folderPath whose creation date is less than twoWeeksAgo)		delete (get every folder of folder folderPath whose creation date is less than twoWeeksAgo)	end tell		return inputend run
+on run {input, parameters}
+	
+	tell application "Finder"
+		set folderPath to (POSIX path of (path to home folder)) & "/Downloads/Two Week Buffer" as POSIX file
+		set twoWeeksAgo to (get current date) - (2 * weeks)
+		delete (get every file of folder folderPath whose creation date is less than twoWeeksAgo)
+		delete (get every folder of folder folderPath whose creation date is less than twoWeeksAgo)
+	end tell
+	
+	return input
+end run
 ```
