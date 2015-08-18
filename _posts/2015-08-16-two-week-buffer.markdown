@@ -29,8 +29,8 @@ When you have the script installed, every time you restart your computer it will
 * **Bittorrent** - If you download an enormous 6GB megapack of something just to see if you like any of the contents. It automatically gets deleted so it doesn't pile up and take up valuable SSD space.
 * **Installers** - You only need installer files to install the program. This makes sure they expire out of your system automatically.
 * **PDFs** - If you grabbed a PDF to print or to send to someone else, you don't need it anymore.
-* **Funny Images** - You find a great GIF, you download it so you can put it in an email or Slack channel, people laugh. You don't need GIF anymore.
-* **Finding files** - One of the issues with a bloated Downloads folder is finding stuff in the pile of crap. Since everything gets cleaned out older than two weeks, it's rare to have more than 10-20 files in this folder at all times. It makes finding files very easy.
+* **Funny Images** - You find a great GIF, you download it so you can put it in an email or Slack channel, people laugh. You don't need the GIF anymore.
+* **Finding files** - One of the issues with a bloated Downloads folder is finding stuff in the pile of crap. Since everything older than two weeks gets cleaned out, it's rare to have more than 10-20 files in this folder at all times. It makes finding files very easy.
 
 ## Installation Instructions
 
@@ -49,9 +49,9 @@ That's it!
 
 ## Nerd stuff
 
-Managed to write this AppleScript in Automator without knowing any AppleScript (thanks Google). Here are the 4 lines of code that make it work.
+Managed to write this AppleScript in Automator without knowing any AppleScript (thanks Google). Here are the few lines of code that make it work.
 
-If you want to tweak anything, you can open this file in automator and change things like the time frame and the folder to use.
+If you want to tweak anything, you can open this file in Automator and change things like the time frame and the folder to use.
 
 Code from `TwoWeekBuffer.app`
 
