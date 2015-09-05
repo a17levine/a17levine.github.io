@@ -1,18 +1,26 @@
 ---
 layout: post
-title:  "How to use 60% less water for your shower"
+title:  "Achieving 81% less shower water usage with a $12 Amazon purchase"
 date:   2015-8-4 10:18:00
 categories: 
-published: false
+published: true
+description: ""
+image: '/assets/images/shower-efficiency.png'
 ---
 
-I had a floormate in college who took a shower in about 3-4 minutes. "My dad told me that he paid for the water and I had to use as little as possible", he would explain. 
+<script src="http://code.highcharts.com/highcharts.js"></script>
+<script src="http://code.highcharts.com/modules/exporting.js"></script>
 
-As he got ready for his shower, he'd get the loofah soaped up before any water started. I think he even covered himself with soap and turned on the water twice, once for the soap to build lather and the second time to rinse off what he'd applied to himself.
+![Shower valve](/assets/images/shower-efficiency/valve.jpg "Shower valve")
+*A shower valve (Amazon.com)*
 
-For me, this was insane. The shower had been some kind of spa treatment for me, a sort of extended hot tub session where I'd rehash thoughts, come up with songs, replay memories of the day and sometimes talk the dialog of a conversation I had earlier. Honestly, I was embarrassed. I had been made aware of my privilege with such a simple daily activity. I was taking Hollywood showers my whole life.
+I had a floormate in college who took a shower in about 3-4 minutes. "My dad told me that he paid for the water and I had to use as little as possible", he'd say, as he went to the showers with his loofah already soaped. 
 
-Now that I'm a grown-up, pay my own water bills and live in a drought ridden area I've paid special attention to water consumption.
+I think he even covered himself with soap and turned on the water twice, once for the soap to build lather and the second time to rinse off what he'd applied to himself.
+
+This was insane to me. I thought of the shower as a kind of spa treatment for me, a sort of extended hot tub session where I'd rehash thoughts, come up with ideas, replay memories of the day and sometimes talk the dialog of a conversation I had earlier. Honestly, I was embarrassed. I had been made aware of my privilege with such a simple daily activity. I was taking 'Hollywood showers' my whole life.
+
+Now that I'm a grown-up, pay my own water bills and live in drought ridden Austin, TX, I've paid special attention to water consumption.
 
 ## The Navy Shower
 
@@ -29,17 +37,20 @@ When you're on a ship, there is a scarce supply of fresh water so showering must
 
 ## The Indian Bucket Shower
 
-Earlier this year when I was in India, I was introduced to the [Indian Bucket Shower](http://www.npr.org/sections/goatsandsoda/2014/07/25/335250270/our-india-correspondent-cant-kick-the-bucket-bathing-habit). Inside one large bucket there is a measuring cup sized pitcher. You essentially ladle water over yourself until you're done and you are much more conscious of how much water you're using.
+![Man taking a bucket shower in India](/assets/images/shower-efficiency/bucketshower.jpg "Bucket Shower")
+*Man taking a bucket shower in Mumbai. (Rafiq Maqbool/AP)*
 
-Cheap traditional guest houses had this setup and probably most households. 
+Earlier this year when I was in India, I was introduced to the [Indian Bucket Shower](http://www.npr.org/sections/goatsandsoda/2014/07/25/335250270/our-india-correspondent-cant-kick-the-bucket-bathing-habit). Inside one large bucket there is a cup with a handle. You fill up the large bucket and then you ladle water over yourself until you're done. You are much more conscious of how much water you're using.
+
+Cheap traditional guest houses had this setup and probably most households in India. 
 
 The washing process is the same as the Navy Shower.
 
 ## How could I achieve this at home?
 
-I became comfortable with this style of showering. It feels very respectful and efficient. Also it solves the problem of the fogged up mirror when you're trying to shave after a shower.
+I became comfortable with this style of showering. It feels very respectful and efficient. Also it solves the problem of the fogged up mirror when you're trying to shave after a shower. The mirror wont fog up without long periods of running hot water.
 
-The problem for me was the hot/cold mix. I'd love to turn off my shower stream but if I didn't have the proper hot/cold mix, it would just be too much of a pain. I thought there must be a valve you could put in between the shower head and the pipe that would allow you to cut off the flow but preserve the mix.
+The problem for me was the hot/cold mix. I'd love to turn off my shower stream but if I didn't have the proper hot/cold mix, it would just be too much of a pain to readjust it every time with my early 20th century shower controls. I thought there must be a valve that you could put in-between the shower head and the pipe that would allow you to cut off the flow but preserve the hot/cold mix.
 
 Sure enough people on Amazon thought the same.
 
@@ -47,20 +58,238 @@ Sure enough people on Amazon thought the same.
 
 Could this revolutionize the shower? Why wouldn't I just toggle the shower head valve instead of messing with the hot/cold dials since I could always get the mix I liked?
 
-Turns out that at least with showers that have the bathtub spigot, water leaked out of that so my dream was crushed, but during a shower the valve was as effective as I anticipated. It did the job.
+Turns out that with showers that have the bathtub spigot like mine, water leaks out of that part when the water is on but the valve is closed. My dream was crushed but during a shower, the valve was as effective as I anticipated.
 
 ### Installing a shower valve
 
 1. Buy the valve
 2. Buy plumber tape
 3. Find/buy a wrench
-4. Watch this video and do what he says
+4. Watch this video and do what homeboy says
 
 The only tricky part was getting enough plumbers tape on in order for the nozzle not to leak once the valve was cutting off the water. I got it on the 3rd or 4th time.
 
 ## Quantifying the result
 
 I've been showering with the valve for months now and have been very happy with it. However I wanted to go a step further and quantify the water savings.
+
+(Flow rate is 9.2 L / minute)
+
+**A normal shower without the valve.**
+
+* 9 minutes long (water flow only, including warm up and adjustment)
+* Used **83 Liters** of water
+
+**A shower with the valve**
+
+* 101 seconds (water flow only, including warm up and adjustment)
+* Used **15 Liters** of water 
+
+<div id="water-usage-chart-per-shower" style="min-width: 310px; height: 400px; margin: 0 auto"></div>
+
+## The money savings aren't crazy but they are noteworthy
+
+If you shower every day and live in Austin,TX, you could potentially save around $92 / year on water.
+
+At peak times, combined water and wastewater cost about $0.014 / gallon.
+
+## Showers accounted for the largest proportion of our water usage
+
+Charlotte and I are the only tenants of our place and we do not irrigate our lawn. We do have a washing machine and dishwasher.
+
+Below is a typical usage breakdown of our water usage.
+
+<div id="water-usage-chart-per-household-pre-valve" style="min-width: 310px; height: 400px; margin: 0 auto"></div>
+
+<div id="water-usage-chart-per-household-post-valve" style="min-width: 310px; height: 400px; margin: 0 auto"></div>
+
+Before we installed the shower valve, showers accounted for the most water usage in our house. After the valve was installed, the washing machine became the largest user of water. I had always been curious about this because I knew my washing machine uses a ton of water but we clearly dwarfed it's usage with shower water.
+
+This accounts for 4 laundry sessions a month. Each session with 2 loads, lights and darks.
+
+## Conclusion: Shower valves are rad and effective at conserving water
+
+If you want to save water and have an old shower that doesn't easily let you resume to a hot/cold mix you like, a shower valve is a good option.
+
+Showers may account for the largest proportion of water usage in your home.
+
+If you don't care about water conservation, you will probably appreciate the ability to not compete with the water flow while you're trying to soap up.
+
+
+<script>
+
+// Per shower
+
+$(function () {
+    $('#water-usage-chart-per-shower').highcharts({
+        chart: {
+            type: 'column'
+        },
+        title: {
+            text: 'My water savings from Navy style shower'
+        },
+        xAxis: {
+            categories: [
+                'Normal Shower',
+                'Valve Shower'
+            ],
+            crosshair: true
+        },
+        exporting: { enabled: false },
+        tooltip: { enabled: false },
+        yAxis: {
+            min: 0,
+            title: {
+                text: 'Water Used (L)'
+            }
+        },
+        tooltip: {
+            headerFormat: '<span style="font-size:10px">{point.key}</span><table>',
+            pointFormat: '<tr><td style="color:{series.color};padding:0">{series.name}: </td>' +
+                '<td style="padding:0"><b>{point.y:.1f} L</b></td></tr>',
+            footerFormat: '</table>',
+            shared: true,
+            useHTML: true
+        },
+        plotOptions: {
+            column: {
+                pointPadding: 0.2,
+                borderWidth: 0
+            }
+        },
+        series: [{
+        		showInLegend: false,
+            name: 'Water',
+            data: [82.782, 15.483]
+
+        }]
+    });
+});
+
+// Per household pre valve
+
+$(function () {
+    $('#water-usage-chart-per-household-pre-valve').highcharts({
+        chart: {
+            type: 'pie'
+        },
+        title: {
+            text: 'Pre-valve Water Usage in the Crib per month'
+        },
+        xAxis: {
+            categories: [
+                'Normal Shower',
+                'Valve Shower'
+            ],
+            crosshair: true
+        },
+        exporting: { enabled: false },
+        tooltip: { enabled: false },
+        yAxis: {
+            min: 0,
+            title: {
+                text: 'Water Used (L)'
+            }
+        },
+        tooltip: {
+            headerFormat: '<span style="font-size:10px">{point.key}</span><table>',
+            pointFormat: '<tr><td style="color:{series.color};padding:0">{series.name}: </td>' +
+                '<td style="padding:0"><b>{point.y:.0f} Gal</b></td></tr>',
+            footerFormat: '</table>',
+            shared: true,
+            useHTML: true
+        },
+        series: [{
+        		showInLegend: false,
+            name: 'Water',
+            data: [
+            	{
+            		name: "Showers",
+            		y: 1308
+            	},
+							{
+            		name: "Washing Machine",
+            		y: 360
+            	},
+							{
+            		name: "Dishwasher",
+            		y: 24
+            	},
+							{
+            		name: "Sinks and Toilet",
+            		y: 116
+            	}
+            ]
+
+        }]
+    });
+});
+
+// Per household post valve
+
+$(function () {
+    $('#water-usage-chart-per-household-post-valve').highcharts({
+        chart: {
+            type: 'pie'
+        },
+        title: {
+            text: 'Post-valve Water Usage in the Crib per month'
+        },
+        xAxis: {
+            categories: [
+                'Normal Shower',
+                'Valve Shower'
+            ],
+            crosshair: true
+        },
+        exporting: { enabled: false },
+        tooltip: { enabled: false },
+        yAxis: {
+            min: 0,
+            title: {
+                text: 'Water Used (L)'
+            }
+        },
+        tooltip: {
+            headerFormat: '<span style="font-size:10px">{point.key}</span><table>',
+            pointFormat: '<tr><td style="color:{series.color};padding:0">{series.name}: </td>' +
+                '<td style="padding:0"><b>{point.y:.0f} Gal</b></td></tr>',
+            footerFormat: '</table>',
+            shared: true,
+            useHTML: true
+        },
+        series: [{
+        		showInLegend: false,
+            name: 'Water',
+            data: [
+            	{
+            		name: "Showers",
+            		y: 247
+            	},
+							{
+            		name: "Washing Machine",
+            		y: 360
+            	},
+							{
+            		name: "Dishwasher",
+            		y: 24
+            	},
+							{
+            		name: "Sinks and Toilet",
+            		y: 116
+            	}
+            ]
+
+        }]
+    });
+});
+
+$(document).ready(function(){
+	$('.highcharts-container text:last').hide()
+})
+
+</script>
+
 
 
 
