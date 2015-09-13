@@ -1,17 +1,18 @@
 ---
 layout: post
 title:  "Achieving 81% less shower water usage with a $9 Amazon purchase"
-date:   2015-8-4 10:18:00
+date:   2015-9-13 10:18:00
 categories: 
 published: true
 description: "Looking at our most inefficient use of household water and a simple way to fix it."
-image: '/assets/images/shower-efficiency.png'
+image: '/assets/images/shower-efficiency/bucketshower.jpg'
 ---
+
+
+I had a floormate in college who took a shower in about 3-4 minutes. "My dad told me that he paid for the water and I had to use as little as possible", he'd say, as he went to the showers with his loofah already soaped.
 
 <script src="http://code.highcharts.com/highcharts.js"></script>
 <script src="http://code.highcharts.com/modules/exporting.js"></script>
-
-I had a floormate in college who took a shower in about 3-4 minutes. "My dad told me that he paid for the water and I had to use as little as possible", he'd say, as he went to the showers with his loofah already soaped.
 
 I think he even covered himself with soap and turned on the water twice, once for the soap to build lather and the second time to rinse off what he'd applied to himself.
 
@@ -107,7 +108,7 @@ Before we installed the shower valve, showers accounted for the most water usage
 
 ## Why should I care?
 
-At $9, this was probably the most cost-effective and impactful purchase to enable us to conserve water more conveniently. Until crunching the numbers, I didn't grasp how wasteful showering was here.
+At $9, this was probably the most cost-effective and impactful purchase to enable us to conserve water more conveniently. Until crunching the numbers, I didn't grasp how wasteful showering was.
 
 **'But I don't care about water conservation'**
 
@@ -289,7 +290,9 @@ $(function () {
 });
 
 $(document).ready(function(){
-	$('.highcharts-container text:last').hide()
+    $('.highcharts-container:eq(0) text:last').remove()
+	$('.highcharts-container:eq(1) text:last').remove()
+    $('.highcharts-container:eq(2) text:last').remove()
 })
 
 </script>
