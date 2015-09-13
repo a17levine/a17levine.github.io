@@ -5,7 +5,7 @@ date:   2015-9-13 10:18:00
 categories: 
 published: true
 description: "Looking at our most inefficient use of household water and a simple way to fix it."
-image: '/assets/images/shower-efficiency/bucketshower.jpg'
+image: '/assets/images/shower-efficiency/shower-efficiency.png'
 ---
 
 
