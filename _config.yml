@@ -12,6 +12,9 @@ domain_name: 'http://alevee.me'
 google_analytics: 'UA-53669222-1'
 permalink: pretty
 
+# Facebook Open Graph
+facebook_profile_url: 'https://www.facebook.com/alexlevine'
+
 # Details for the RSS feed generator
 url:            'http://alevee.me'
 author:         'Alex Levine'
