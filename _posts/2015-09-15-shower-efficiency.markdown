@@ -102,7 +102,7 @@ Below is a typical usage breakdown of our water usage.
 
 <div id="water-usage-chart-per-household-post-valve" style="min-width: 310px; height: 400px; margin: 0 auto"></div>
 
-Before we installed the shower valve, showers accounted for the most water usage in our house. After the valve was installed, the washing machine became the largest user of water. I had always been curious about this because I knew my washing machine uses a ton of water but we clearly dwarfed it's usage with shower water.
+Before we installed the shower valve, showers accounted for the most water usage in our house. After the valve was installed, the washing machine became the largest user of water. I had always been curious about this because I knew my washing machine uses a ton of water but we clearly dwarfed its usage with shower water.
 
 (This accounts for 4 laundry sessions a month. Each session with 2 loads, lights and darks.)
 
