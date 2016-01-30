@@ -73,7 +73,7 @@ We had never cleaned a feed-loading scanner before but vertical lines started to
 
 ![Eric cleaning the scanner](/assets/images/throwback-thursday/ericcleaning.jpg "Eric cleaning the scanner")
 
-![Eric cleaning the scanner, close up](/assets/images/throwback-thursday/cleaningcloseup.jpg "Eric cleaning the scanner, close up")
+![Eric cleaning the scanner, close up](/assets/images/throwback-thursday/cleaning-closeup.jpg "Eric cleaning the scanner, close up")
 
 Apparently you can't use alcohol to clean it. The Fujitsu needs the F1 solution which fortunately can be found in individually-wrapped wipes [for less than $20 on Amazon](http://www.amazon.com/Fujitsu-24-Sheets-Cleaning-Pre-Moist-PA03950-0419/dp/B002N3TKSK). We also used a microfiber cloth to dry the solution and help get the debris off the glass which was stubborn sometimes.
 
