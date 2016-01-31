@@ -53,7 +53,7 @@ If we had done that, we would've spent over $5,000. Photo scanning services are 
 
 ![Fujitsu ScanSnap iX500](/assets/images/throwback-thursday/scansnap.jpg "Fujitsu ScanSnap iX500")
 
-Research led us to buying the feed-loadng Fujitsu ScanSnap ix500 which we got refurb for $300 on eBay. For the same cost of 500 photos (with a scanning service), we were able to scan more than 9,000. In addition, if your only use of this scanner is a one-time family photo digitization, you probably could probably sell the same unit back on eBay and have your total cost be closer to $30-$40 for the scanner if you there is any cost at all.
+Research led us to buying the feed-loadng Fujitsu ScanSnap ix500 which we got refurb for $300 on eBay. For the same cost of 500 photos (with a scanning service), we were able to scan more than 9,000. In addition, if your only use of this scanner is a one-time family photo digitization, you probably could sell the same unit back on eBay and have your total cost be closer to $30-$40 for the scanner if you there is any cost at all.
 
 #### Organizing is the most labor-intensive task in photo scanning
 
