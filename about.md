@@ -7,4 +7,4 @@ title: About Alex
 
 I'm an Andover, Massachusetts native now living in Austin, Texas. My current mission is to build great web applications and cook awesome food. 
 
-Currently, I'm the Lead Software Developer at <a href="https://www.vthreat.com/" target="_blank">vThreat</a>. We're building innovative ways for companies to prepare for web-based attacks. 
+Currently, I'm the Lead Software Engineer at <a href="https://www.ticketbud.com/" target="_blank">Ticketbud</a>. We're giving event organizers, like you, a cost-effective way to charge admission fees and get daily payouts to fund your event. 
