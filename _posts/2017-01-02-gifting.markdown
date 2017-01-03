@@ -10,15 +10,15 @@ image: '/assets/images/throwback-thursday/swag.jpg'
 
 This guide comes from an obsession with gifting that has gone back many years. I suppose it's related to my obsession with technology. Both gifts and technology aim to make our lives better but gifting is a profound gesture. It shows that you think about a person and their needs even if they don't clearly understand their needs. This guide describes my process for getting through the holiday season gifting smoothly and allowing your most inspired gifts to shine through.
 
-# Good / Better / Best
+## Good / Better / Best
 
 The best gift is what you're after for people you care most about and often requires some inspiration.
 
-Best - Inspired, flashy, sexy
-Better - Inspired, but not immediately recognized. These end up being great gifts but it takes some time to understand them. They might be boring on the surface, like premium underwear, but after a few weeks, you'll get a call acknowledging that this is a fantastic gift.
-Good - Useful, utilitarian, guaranteed to be used and improve that person's life, even if it's not flashy, sexy or provides a gushy response
+* Best - Inspired, flashy, sexy
+* Better - Inspired, but not immediately recognized. These end up being great gifts but it takes some time to understand them. They might be boring on the surface, like premium underwear, but after a few weeks, you'll get a call acknowledging that this is a fantastic gift.
+* Good - Useful, utilitarian, guaranteed to be used and improve that person's life, even if it's not flashy, sexy or provides a gushy response
 
-Bad - Not useful, not inspired by the needs of the recipient but of the giver. Trinkets that take up space and provide no value. Off-brand bargain bin items in TJ Maxx that nobody wants. Gifts that represent a superficial understanding of a deep passion of the recipient ('he likes hockey! here's a figurine doing a slapshot!').
+* Bad - Not useful, not inspired by the needs of the recipient but of the giver. Trinkets that take up space and provide no value. Off-brand bargain bin items in TJ Maxx that nobody wants. Gifts that represent a superficial understanding of a deep passion of the recipient ('he likes hockey! here's a figurine doing a slapshot!').
 
 
 ## A Gifting Journal
@@ -35,13 +35,13 @@ Here are folks that are often forgotten: The people you'll be spending the holid
 
 ## Ideas for gifts
 
-### Person relies on something crappy, so gift them something better
+#### Person relies on something crappy, so gift them something better
 
 I tell this to people who complain that it's hard to shop for men. I guarantee you that man has something of the following: crappy luggage, crappy sweater, crappy winter clothing, crappy headphones etc.
 
 The advantage of this style of gift is that you know the person will use it because a crappy one sufficed and you've seen it in use. Chances are they don't know any better so with a very small amount of research, you can significantly improve that aspect of their life.
 
-### A new type of product or service that's probably off their radar
+#### A new type of product or service that's probably off their radar
 
 There are new startups that are providing new, improved, and cheaper ways of getting quality products and services.
 
@@ -51,7 +51,7 @@ Indochino - They make custom high quality shirts but many people will never bene
 Everlane - High quality online-only clothing retailer with fantastic prices. Limited selection makes buying easier.
 Warby Parker - High quality prescription glasses that have an unusual mail-only format for trying on frames.
 
-### Ethereal pleasures, experiences, education
+#### Ethereal pleasures, experiences, education
 
 These gifts don't take up physical space but can have an awesome impact.
 
@@ -63,7 +63,7 @@ Other classes - There are many classes that can teach you glassblowing, gardenin
 
 Luxury food items - High quality wine, olive oil, tea, coffee, and chocolate make great gifts. Any high-quality local store will have people who can suggest these items if you personally can't vouch for a brand.
 
-### Less inspired but very useful
+#### Less inspired but very useful
 
 Starbucks gift cards are extremely useful and they will even sell you the envelope and card for no additional money than you load the gift card for. Often times, the card can be used several times and the person will remember you every time they use it.
 
