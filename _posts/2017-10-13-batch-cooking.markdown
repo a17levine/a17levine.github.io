@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Batch cooking"
+title:  "Better health and weight control - two hours per week with batch cooking"
 date:   2017-10-13 10:18:00
 categories: 
 published: true
@@ -8,7 +8,7 @@ description: ""
 image: '/assets/images/throwback-thursday/swag.jpg'
 ---
 
-Batch cooking is a nice way to save some money but more importantly, it's the best way to control your health and waistline.
+Batch cooking is a nice way to save some money and it's also the best way to control your health and waistline.
 
 I see a lot of my friends gaining weight just because they enjoy the convenience of bready or noodly lunches. Those lunches are profitable for restaurants to sell and seemingly a good value but they leave you with an excess of calories and with food thats harder to digest, which causes you to drag in the afternoon.
 
@@ -40,7 +40,7 @@ You can combine different veg on the same sheet tray but you’ll have to remove
 Roasted asparagus. You’ll want to trim bases of these, probably the first inch so it’s easier to chew. 400 degrees, 13-15 minutes.
 - **Roasted brussels sprouts**: I like buying these when they’re already shredded up since it’s a lot of work getting it to that state. Trader joes sells them in a nice pre-shred pack. 400 degrees for about 15 minutes I think, you’ll know when they’re done. In addition to salt and pepper, I usually add good balsamic vinegar to them.
 - **Mushrooms**: These spoil the fastest so never buy these ahead. I like to buy the pre-washed pre-cut ones so I can get cooking really fast. Cook with a combination of oil and butter. Butter and thyme are the ultimate companions for mushrooms. I recommend stepping up the amount of butter and thyme you use every time until you’re happy with the flavor. Adding Dijon mustard adds a ton of flavor as well.
-- **Power greens**: Buy the prewashed power greens with the longest sell by date you can find. I’m lazy and end up microwaving these with the rest of my lunch. If you’re not lazy you can separate them out to either have as a salad in a separate tupperware or pull out the greens, microwave your lunch and add them back after.
+- **Power greens** (lettuce tub): Buy the prewashed power greens with the longest sell by date you can find. I’m lazy and end up microwaving these with the rest of my lunch. If you’re not lazy you can separate them out to either have as a salad in a separate tupperware or pull out the greens, microwave your lunch and add them back after.
 - **Sauerkraut / Kimchi**: These require no prep and add a ton of flavor.
 - **Pickled jalapenos**: Ready to go from a jar
 - **Pepperoncini peppers**: Ready to go from a jar
@@ -55,13 +55,13 @@ These are the elements that you dial up and down depending on how trim you want 
 
 ## Legumes (20% of bowl)
 
-You can eat pretty much unlimited beans or lentils and not gain weight. They’re a great source of protein, great for you and cheap as fuck. My favorite black bean, the HEB one with jalapenos and lime is $0.74 / can.
+You can eat pretty much unlimited beans or lentils and not gain weight. They’re a great source of protein, great for you and cheap as fuck. My favorite black bean, [the HEB one with jalapenos and lime is $0.72 / can](https://www.heb.com/product-detail/h-e-b-black-beans-with-lime-and-jalapenos/1573157).
 
 
 - **Beans**: (black and pinto beans) Be careful to only buy ones that don’t add sugar. This will sabotage any diet goals. Also be mindful of the salt content. You can buy no salt added beans if you’re happy with the salt level in your overall bowl. I like to salt my rice and obviously everything else so if you feel like you’re getting crushed with salt, you can use unsalted beans as a way to dial back. I usually use 4 cans of beans and rinse them off in a colander and parcel into tupperware once a week. They say rinsing beans helps rid them of their gassy affect. 
 If you’re on a low carb diet or paleo, replace all rice with beans and maybe even add more beans than 20% of the bowl. This will keep you full longer and keep your body burning fat.
 
-- **Lentils**: I rarely get sick of beans but when I do, I’ll make lentils. You can get these in a can but the quality is better when you make them in a saucepan. I like buying the HEB lentils with the seasoning packet. Follow instructions, takes about 40 mins.
+- **Lentils**: I rarely get sick of beans but when I do, I’ll make lentils. You can get these in a can but the quality is better when you make them in a saucepan. I like buying the [HEB lentils with the seasoning packet](https://www.heb.com/product-detail/h-e-b-mediterranean-style-lentils/1516229). Follow instructions, takes about 40 mins.
 
 ## Protein (20% of bowl)
 
@@ -77,7 +77,7 @@ Chicken Breast or thigh - Thigh has more fat but is cheaper and tastes better.
 - **Canned sardines**: These are great for a pinch when you run out of other things. They stay in the closet forever. They’re also great when you want some fish in your diet. Canned tuna is also good but has far more heavy metals in it and is less sustainable.
 - **Hardboiled eggs**: Easy to make and very cheap.
 - **Tofu**: You gotta buy hard tofu, dehydrate is as much as possible with paper towels and cut into 1in x 1in x 0.5in pieces. Then you hit it with salt and pepper and pan fry it as much as you can until you get good color on both sides.
-- **Seitan**: They call this wheat meat. It’s a vegetarian protein option. I like the Mr. Upton brand, the italian sausage flavor the best. You don’t even need to cook this, you just put in a tupperware, break it up so it's not all stuck together and microwave with the rest of your bowl.
+- **Seitan**: They call this wheat meat. It’s a vegetarian protein option. I like the Mr. Upton brand, the Italian sausage flavor the best. You don’t even need to cook this, you just put in a tupperware, break it up so it's not all stuck together and microwave with the rest of your bowl.
 
 
 ## Sauce
@@ -89,7 +89,7 @@ It’s nice to drizzle something on top of this bowl. I’m a huge fan of spicy 
 - Franks Redhot
 - Tapatio
 - Sriracha
-- Yellobird Habenero Condiment
+- Yellowbird Habenero Condiment
 - Nando’s Piri Piri sauce
 - Sambal Olek
 - Soy sauce
@@ -102,5 +102,18 @@ It’s nice to drizzle something on top of this bowl. I’m a huge fan of spicy 
 
 
 ## The two-hour method
+
+Ok so you're strapped for time. Here's how to hack the hell out of this to make this only two hours of your time.
+
+1. Cook a cup of rice, that will fill one of those tupperwares and will last you the whole week if not more.
+2. Cook the mushrooms
+3. Microwave 2 bags of cut broccoli/cauliflower/carrot. It'll say to do it for 3.5 minutes but thats too much. Do it for 2 minutes. When done, toss with salt and pepper in a mixing bowl.
+4. Open two cans of beans, rinse them off in a colander, put in tupperware.
+5. Take apart a rotisserie chicken into bite sized pieces and put into tupperware.
+6. Cook off some hamburger patties with salt and pepper.
+7. Sautee an entire baby kale lettuce tub with some salt and pepper. This reduces the volume of the greens and adds flavor so you don't have to make a separate salad and dress it.
+8. Take a tub of organic grape tomatoes and sautee until they break down a bit. Season with salt, pepper, red pepper flake and some balsamic vinegar.
+
+If you're working concurrently with items cooking, you should be able to do all of that within two hours.
 
 
