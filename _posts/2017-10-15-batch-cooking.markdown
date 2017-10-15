@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Better health and weight control - two hours per week with batch cooking"
+title:  "Better health and weight control, only two hours per week with batch cooking"
 date:   2017-10-15 10:18:00
 categories: 
 published: true
