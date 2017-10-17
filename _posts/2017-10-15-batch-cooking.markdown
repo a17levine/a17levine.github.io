@@ -79,7 +79,7 @@ You want to have 2 of these around because you’ll get sick of the same protein
 Steak
 - **Ground turkey**: I like to add herbs like rosemary, thyme, oregano. Also scallions, garlic, maybe some white vinegar of some sort to make it lively. Add vinegar at the end.
 - **Rotisserie chicken**: This is the ultimate hack for lazy meal prep. Buy one of these and break it down into tupperware, bite sized pieces, immediately when you get home. Should give you 3-4 days of good chicken for the week.  
-Chicken Breast or thigh - Thigh has more fat but is cheaper and tastes better.
+- **Chicken Breast or thigh**: Thigh has more fat but is cheaper and tastes better.
 - **Canned sardines**: These are great for a pinch when you run out of other things. They stay in the closet forever. They’re also great when you want some fish in your diet. [Here's the brand I like that you can find at HEB. Warning: they are spicy](https://www.heb.com/product-detail/king-oscar-sardines-in-olive-oil-with-hot-jalapeno-peppers/1684589). Canned tuna is also good but has far more heavy metals in it and is less sustainable.
 - **Hardboiled eggs**: Easy to make and very cheap.
 - **Tofu**: You gotta buy hard tofu, dehydrate is as much as possible with paper towels and cut into 1in x 1in x 0.5in pieces. Then you hit it with salt and pepper and pan fry it as much as you can until you get good color on both sides.
