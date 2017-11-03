@@ -7,7 +7,7 @@ markdown: redcarpet
 highlighter: pygments
 logo: false
 paginate: 15
-baseurl: /
+baseurl: 'http://alevee.me/'
 domain_name: 'http://alevee.me'
 google_analytics: 'UA-53669222-1'
 permalink: pretty
