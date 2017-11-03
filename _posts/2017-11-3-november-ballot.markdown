@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "How I'm voting in the November 2017 Austin constitutional election"
+title:  "How I'm voting in the November 2017 Austin Constitutional Election"
 date:   2017-11-03 10:18:00
 categories: 
 published: true
