@@ -134,7 +134,7 @@ Austin is expanding rapidly and I'm in favor of capturing as much space for curr
 
 ## Bond: AISD 
 
-[Explanation about what it is]()
+[Exhaustive list of all changes and improvements](https://www.aecomconnect.com/AISD_FCA/docs/AISD%20Bond%20Model%20-%20Final_2017.07.27.pdf)
 
 ### I'm voting: FOR
 
