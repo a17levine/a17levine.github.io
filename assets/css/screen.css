@@ -779,6 +779,7 @@ body:not(.post-template) .post-title {
 }
 
 .post-meta {
+    margin-bottom: 38px;
     display: block;
     margin: 1.75rem 0 0 0;
     font-family: "Open Sans", sans-serif;
