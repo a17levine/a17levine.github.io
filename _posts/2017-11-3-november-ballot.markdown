@@ -140,7 +140,7 @@ Austin is expanding rapidly and I'm in favor of capturing as much space for curr
 
 What I love about this bond is that it's already funded by increased tax revenues. Schools are in bad shape and need to be repaired. This is great for reviving neighborhoods and investing in the future.
 
-Critics say it has socio-economic/racist bias where schools are getting more attention in more affluent white areas. People actually came to my office to explain the bond and showed that improvements were being prioritized on an as-needed basis and schools that need repairs are all over the city, not just in rich white areas. 
+Critics say it has socioeconomic/racist bias where schools are getting more attention in more affluent white areas. People actually came to my office to explain the bond and showed that improvements were being prioritized on an as-needed basis and schools that need repairs are all over the city, not just in rich white areas. 
 
 The school closures are controversial but it was explained to me that many of these schools just don't make sense to operate. They're too small to justify the overhead.
 
