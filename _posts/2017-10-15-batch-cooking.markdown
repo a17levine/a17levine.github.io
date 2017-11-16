@@ -76,7 +76,7 @@ Often times people just think about the main protein in their lunch and neglect 
 You want to have 2 of these around because you’ll get sick of the same protein.
 
 - **Ground beef**: Usually takes about 10 mins in a skillet. Goes great with taco seasoning, scallions, garlic, soy sauce or even fish sauce.
-Steak
+- **Steak**
 - **Ground turkey**: I like to add herbs like rosemary, thyme, oregano. Also scallions, garlic, maybe some white vinegar of some sort to make it lively. Add vinegar at the end.
 - **Rotisserie chicken**: This is the ultimate hack for lazy meal prep. Buy one of these and break it down into tupperware, bite sized pieces, immediately when you get home. Should give you 3-4 days of good chicken for the week.  
 - **Chicken Breast or thigh**: Thigh has more fat but is cheaper and tastes better.
