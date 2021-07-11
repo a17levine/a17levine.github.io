@@ -5,3 +5,4 @@ group :jekyll_plugins do
 end
 
 gem 'jekyll'
+gem 'jekyll-paginate'

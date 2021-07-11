@@ -3,7 +3,7 @@ title: 'Alex Levine - Web Developer in Austin, Texas'
 description: "web developer // austin, tx"
 meta_description: "alex levine's blog"
 
-markdown: redcarpet
+markdown: kramdown
 highlighter: pygments
 logo: false
 paginate: 15
@@ -11,6 +11,7 @@ baseurl: 'http://alevee.me/'
 domain_name: 'http://alevee.me'
 google_analytics: 'UA-53669222-1'
 permalink: pretty
+plugins: [jekyll-paginate]
 
 # Facebook Open Graph
 facebook_profile_url: 'https://www.facebook.com/alexlevine'
