@@ -117,7 +117,13 @@
       });
 
       stripe.confirmCardPayment(
-        'pi_1JCCgXD4bOGcU1xmfMfYGuBB_secret_8qrgFa7d5EYJZfa19suN3tsQn', card, {
+        'pi_1JCCgXD4bOGcU1xmfMfYGuBB_secret_8qrgFa7d5EYJZfa19suN3tsQn',  {
+          payment_method: {
+            card: card,
+            billing_details: {
+              name: 'Jenny Rosen'
+            }
+          }
         }
       ).then(function(result) {
         if (result) {
