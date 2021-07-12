@@ -3,27 +3,98 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title>A Basic HTML5 Template</title>
-  <meta name="description" content="A simple HTML5 Template for new projects.">
-  <meta name="author" content="SitePoint">
-
-  <meta property="og:title" content="A Basic HTML5 Template">
-  <meta property="og:type" content="website">
-  <meta property="og:url" content="https://www.sitepoint.com/a-basic-html5-template/">
-  <meta property="og:description" content="A simple HTML5 Template for new projects.">
-  <meta property="og:image" content="image.png">
-
-  <link rel="icon" href="/favicon.ico">
-  <link rel="icon" href="/favicon.svg" type="image/svg+xml">
-  <link rel="apple-touch-icon" href="/apple-touch-icon.png">
-
-  <link rel="stylesheet" href="css/styles.css?v=1.0">
-
+  <!-- <link rel="stylesheet" href="css/styles.css?v=1.0"> -->
+  <script src="https://js.stripe.com/v3/"></script>
 </head>
 
 <body>
   <p>Stripe experiment</p>
+  <script>
+    var stripe = Stripe('pk_test_alJEVpAbzt4PFGffF5pBL8hr');
+    (function() {
+      "use strict";
+
+      var elements = stripe.elements({
+        fonts: [
+          {
+            cssSrc: "https://rsms.me/inter/inter.css"
+          }
+        ],
+        // Stripe's examples are localized to specific languages, but if
+        // you wish to have Elements automatically detect your user's locale,
+        // use `locale: 'auto'` instead.
+        locale: window.__exampleLocale
+      });
+
+      /**
+      * Card Element
+      */
+      var card = elements.create("card", {
+        style: {
+          base: {
+            color: "#32325D",
+            fontWeight: 500,
+            fontFamily: "Inter, Open Sans, Segoe UI, sans-serif",
+            fontSize: "16px",
+            fontSmoothing: "antialiased",
+
+            "::placeholder": {
+              color: "#CFD7DF"
+            }
+          },
+          invalid: {
+            color: "#E25950"
+          }
+        }
+      });
+
+      card.mount("#example4-card");
+
+      /**
+      * Payment Request Element
+      */
+      var paymentRequest = stripe.paymentRequest({
+        country: "US",
+        currency: "usd",
+        total: {
+          amount: 2000,
+          label: "Total"
+        }
+      });
+      paymentRequest.on("token", function(result) {
+        var example = document.querySelector(".example4");
+        example.querySelector(".token").innerText = result.token.id;
+        example.classList.add("submitted");
+        result.complete("success");
+      });
+
+      var paymentRequestElement = elements.create("paymentRequestButton", {
+        paymentRequest: paymentRequest,
+        style: {
+          paymentRequestButton: {
+            type: "donate"
+          }
+        }
+      });
+
+      stripe.confirmCardPayment(
+        'pi_1JCCgXD4bOGcU1xmfMfYGuBB_secret_8qrgFa7d5EYJZfa19suN3tsQn', card, {
+        }
+      ).then(function(result) {
+        if (result) {
+          document.querySelector(".example4 .card-only").style.display = "none";
+          document.querySelector(
+            ".example4 .payment-request-available"
+          ).style.display =
+            "block";
+          paymentRequestElement.mount("#example4-paymentRequest");
+        }
+      });
+
+      registerElements([card, paymentRequestElement], "example4");
+    })();
+  </script>
   <!-- your content here... -->
-  <script src="js/scripts.js"></script>
+  <!-- <script src="js/scripts.js"></script> -->
 </body>
 </html>
