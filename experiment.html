@@ -127,6 +127,7 @@
         result.complete("success");
       });
 
+      var paymentRequestElement;
       paymentRequest.canMakePayment().then(result => {
         if (result) {
           var paymentRequestElement = elements.create("paymentRequestButton", {
@@ -137,30 +138,32 @@
               }
             }
           });
-        }
-      });
 
-      stripe.confirmCardPayment(
-        'pi_1JCCgXD4bOGcU1xmfMfYGuBB_secret_8qrgFa7d5EYJZfa19suN3tsQn',  {
-          payment_method: {
-            card: card,
-            billing_details: {
-              name: 'Jenny Rosen'
+          stripe.confirmCardPayment(
+            'pi_1JCCgXD4bOGcU1xmfMfYGuBB_secret_8qrgFa7d5EYJZfa19suN3tsQn',  {
+              payment_method: {
+                card: card,
+                billing_details: {
+                  name: 'Jenny Rosen'
+                }
+              }
             }
-          }
-        }
-      ).then(function(result) {
-        if (result) {
-          document.querySelector(".example4 .card-only").style.display = "none";
-          document.querySelector(
-            ".example4 .payment-request-available"
-          ).style.display =
-            "block";
-          paymentRequestElement.mount("#example4-paymentRequest");
+          ).then(function(result) {
+            if (result) {
+              document.querySelector(".example4 .card-only").style.display = "none";
+              document.querySelector(
+                ".example4 .payment-request-available"
+              ).style.display =
+                "block";
+              paymentRequestElement.mount("#example4-paymentRequest");
+            }
+          });
+
+          registerElements([card, paymentRequestElement], "example4");
         }
       });
 
-      registerElements([card, paymentRequestElement], "example4");
+
     })();
   </script>
   <!-- your content here... -->
