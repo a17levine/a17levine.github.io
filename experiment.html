@@ -127,12 +127,16 @@
         result.complete("success");
       });
 
-      var paymentRequestElement = elements.create("paymentRequestButton", {
-        paymentRequest: paymentRequest,
-        style: {
-          paymentRequestButton: {
-            type: "donate"
-          }
+      paymentRequest.canMakePayment().then(result => {
+        if (result) {
+          var paymentRequestElement = elements.create("paymentRequestButton", {
+            paymentRequest: paymentRequest,
+            style: {
+              paymentRequestButton: {
+                type: "donate"
+              }
+            }
+          });
         }
       });
 
